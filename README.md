@@ -1,2 +1,2 @@
 # CV
-My personal cite
+My personal site
