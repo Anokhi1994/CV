@@ -19,3 +19,7 @@ h2 {
 h3 {
     color: darkolivegreen;
 }
+
+.public-profile:hover {
+    transform: scale(1.2);
+}
