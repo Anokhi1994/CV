@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+hr {
+    border-width: 7px;
+    border-style: dotted;
+    border-color: grey;
+    border-top: 1px;
+    width: 7%;
+    height: 1px;
+
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+h3 {
+    color: darkolivegreen;
+}
